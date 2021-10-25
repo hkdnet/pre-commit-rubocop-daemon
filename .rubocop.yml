@@ -1,0 +1,9 @@
+AllCops:
+  Exclude:
+    - 'target/ignored.rb'
+  NewCops: disable
+
+Style/StringLiterals:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false

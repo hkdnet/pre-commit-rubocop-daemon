@@ -1,0 +1,5 @@
+- id: run-rubocop-daemon
+  name: Run rubocop-deamon
+  description: Run rubocop-daemon
+  entry: run-rubocop-daemon
+  language: script
